@@ -1,0 +1,7 @@
+version: "2"
+domain: kubenebula.io
+repo: kubenebula.io/kubenebula
+resources:
+- group: tenant
+  version: v1alpha1
+  kind: Team

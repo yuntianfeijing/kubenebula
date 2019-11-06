@@ -1,0 +1,9 @@
+apiVersion: tenant.kubenebula.io/v1alpha1
+kind: Team
+metadata:
+  annotations:
+    creator: zhangxiaolong1
+    desc: 星云团队
+  name: nebula
+spec:
+  manager: zhangxiaolong1
